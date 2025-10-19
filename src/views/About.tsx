@@ -15,11 +15,11 @@ export default function About() {
             {/* Left Column - Text Content */}
             <div className="space-y-6">
               <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              I am a passionate and dedicated Frontend Developer with one year of focused training in modern web technologies. My journey began with mastering JavaScript and React, and has since expanded to include TypeScript and Next.js. What truly excites me is creating intuitive user interfaces that solve real problems - whether it's building responsive layouts, implementing clean logic, or collaborating with team members to bring designs to life. I thrive on turning complex challenges into elegant solutions and believe in writing clean, maintainable code that makes a difference.
+              I am a passionate and dedicated Frontend Developer with one year of focused training in modern web technologies. My journey began with mastering JavaScript and React, and has since expanded to include TypeScript and Next.js. What truly excites me is creating intuitive user interfaces that solve real problems - whether it is building responsive layouts, implementing clean logic, or collaborating with team members to bring designs to life. I thrive on turning complex challenges into elegant solutions and believe in writing clean, maintainable code that makes a difference.
               </p>
               
               <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              Having worked on practical projects including restaurant management systems and admin panels, I've developed a strong foundation in component-based architecture and API integration. Now I'm ready to take the next step in my career journey: contributing to a professional team where I can apply my skills, learn from experienced developers, and help build products that users love. I'm particularly drawn to environments that value collaboration, continuous learning, and creating meaningful impact through technology.
+              Having worked on practical projects including restaurant management systems and admin panels, I have developed a strong foundation in component-based architecture and API integration. Now Iam ready to take the next step in my career journey: contributing to a professional team where I can apply my skills, learn from experienced developers, and help build products that users love. Iam particularly drawn to environments that value collaboration, continuous learning, and creating meaningful impact through technology.
               </p>
               
               {/* Skills Grid */}

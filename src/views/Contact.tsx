@@ -10,8 +10,8 @@ export default function Contact() {
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-purple-500 to-pink-500 mx-auto mb-6"></div>
             <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-              I'm always interested in new opportunities and exciting projects. 
-              Let's discuss how we can work together!
+              Iam always interested in new opportunities and exciting projects. 
+              Lets discuss how we can work together!
             </p>
           </div>
 
@@ -20,11 +20,11 @@ export default function Contact() {
             <div className="space-y-8">
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">
-                  Let's Connect
+                  Lets Connect
                 </h3>
                 <p className="text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
                   Whether you have a project in mind, want to collaborate, or just want to say hello, 
-                  I'd love to hear from you. I'm always open to discussing new opportunities and 
+                  I would love to hear from you. Iam always open to discussing new opportunities and 
                   creative projects.
                 </p>
               </div>
