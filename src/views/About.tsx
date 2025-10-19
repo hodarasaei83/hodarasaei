@@ -15,37 +15,34 @@ export default function About() {
             {/* Left Column - Text Content */}
             <div className="space-y-6">
               <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-                I'm a passionate full-stack developer with over 5 years of experience in creating 
-                digital solutions that bridge the gap between design and functionality. My journey 
-                began with a curiosity about how things work on the web, and it has evolved into 
-                a career dedicated to building exceptional user experiences.
+              I am a passionate and dedicated Frontend Developer with one year of focused training in modern web technologies. My journey began with mastering JavaScript and React, and has since expanded to include TypeScript and Next.js. What truly excites me is creating intuitive user interfaces that solve real problems - whether it's building responsive layouts, implementing clean logic, or collaborating with team members to bring designs to life. I thrive on turning complex challenges into elegant solutions and believe in writing clean, maintainable code that makes a difference.
               </p>
               
               <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-                I specialize in modern web technologies including React, Next.js, Node.js, and 
-                TypeScript. My approach combines technical expertise with creative problem-solving 
-                to deliver solutions that are not only functional but also beautiful and intuitive.
+              Having worked on practical projects including restaurant management systems and admin panels, I've developed a strong foundation in component-based architecture and API integration. Now I'm ready to take the next step in my career journey: contributing to a professional team where I can apply my skills, learn from experienced developers, and help build products that users love. I'm particularly drawn to environments that value collaboration, continuous learning, and creating meaningful impact through technology.
               </p>
               
               {/* Skills Grid */}
               <div className="grid grid-cols-2 gap-4 mt-8">
                 <div className="space-y-2">
-                  <h4 className="font-semibold text-gray-900 dark:text-white">Frontend</h4>
+                  <h4 className="font-semibold text-gray-900 dark:text-white">Technical Skills</h4>
                   <ul className="text-sm text-gray-600 dark:text-gray-300 space-y-1">
-                    <li>React & Next.js</li>
+                    <li>JavaScript</li>
+                    <li>React</li>
+                    <li>Next.js</li>
                     <li>TypeScript</li>
-                    <li>Tailwind CSS</li>
-                    <li>Framer Motion</li>
+                    <li>HTML5 & CSS3</li>
                   </ul>
                 </div>
                 
                 <div className="space-y-2">
-                  <h4 className="font-semibold text-gray-900 dark:text-white">Backend</h4>
+                  <h4 className="font-semibold text-gray-900 dark:text-white">Professional Strengths</h4>
                   <ul className="text-sm text-gray-600 dark:text-gray-300 space-y-1">
-                    <li>Node.js & Express</li>
-                    <li>PostgreSQL</li>
-                    <li>MongoDB</li>
-                    <li>REST & GraphQL</li>
+                    <li>Quick Learning & Adaptation</li>
+                    <li>Problem-Solving Mindset</li>
+                    <li>Attention to Detail</li>
+                    <li>Passion for Clean Code</li>
+                    <li>Collaborative Team Player</li>
                   </ul>
                 </div>
               </div>

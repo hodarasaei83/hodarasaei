@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hoda Rasaei - Full Stack Developer & UI/UX Designer",
-  description: "Portfolio of Hoda Rasaei, a passionate full-stack developer specializing in modern web technologies including React, Next.js, and TypeScript.",
+  title: "Hoda Rasaei",
+  description: "Portfolio of Hoda Rasaei",
 };
 
 export default function RootLayout({

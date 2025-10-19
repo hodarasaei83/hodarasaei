@@ -5,7 +5,7 @@ export default function Hero() {
         <div className="max-w-4xl mx-auto">
           {/* Profile Image Placeholder */}
           <div className="w-32 h-32 mx-auto mb-8 rounded-full bg-gradient-to-r from-purple-400 to-pink-400 flex items-center justify-center">
-            <span className="text-4xl font-bold">H</span>
+              <img src='globe.svg'/>
           </div>
           
           {/* Main Heading */}
@@ -15,16 +15,15 @@ export default function Hero() {
           
           {/* Subtitle */}
           <p className="text-xl md:text-2xl mb-8 text-gray-300 font-light">
-            Full Stack Developer & UI/UX Designer
+          Frontend Developer | React & Next.js
           </p>
           
           {/* Description */}
           <p className="text-lg md:text-xl mb-12 text-gray-400 max-w-2xl mx-auto leading-relaxed">
-            Passionate about creating beautiful, functional web applications that make a difference. 
-            I specialize in modern technologies and user-centered design.
+            A passionate frontend developer with solid experience in JavaScript and React, currently expanding skills in TypeScript and Next.js. Proven ability to build intuitive user interfaces and solve complex logic challenges through hands-on projects. Seeking to join a professional team where I can contribute to real-world applications and grow as a developer. Ready to bring clean code, quick learning, and collaborative spirit to your next project.
           </p>
           
-          {/* CTA Buttons */}
+          {/* CTA Buttons
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <button className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-semibold py-4 px-8 rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg">
               View My Work
@@ -32,7 +31,7 @@ export default function Hero() {
             <button className="border-2 border-purple-400 text-purple-400 hover:bg-purple-400 hover:text-white font-semibold py-4 px-8 rounded-full transition-all duration-300">
               Get In Touch
             </button>
-          </div>
+          </div> */}
           
           {/* Scroll Indicator */}
           <div className="mt-16 animate-bounce">

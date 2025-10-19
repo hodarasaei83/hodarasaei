@@ -39,7 +39,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900 dark:text-white">Email</h4>
-                    <p className="text-gray-600 dark:text-gray-300">hoda.rasaei@example.com</p>
+                    <p className="text-gray-600 dark:text-gray-300">hodarasaei83@gmail.com</p>
                   </div>
                 </div>
 
@@ -51,7 +51,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900 dark:text-white">GitHub</h4>
-                    <p className="text-gray-600 dark:text-gray-300">github.com/hodarasaei</p>
+                    <p className="text-gray-600 dark:text-gray-300">github.com/hodarasaei83</p>
                   </div>
                 </div>
 
@@ -63,7 +63,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900 dark:text-white">LinkedIn</h4>
-                    <p className="text-gray-600 dark:text-gray-300">linkedin.com/in/hodarasaei</p>
+                    <p className="text-gray-600 dark:text-gray-300">linkedin.com/in/hoda-rasaei</p>
                   </div>
                 </div>
               </div>

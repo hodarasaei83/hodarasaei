@@ -30,16 +30,16 @@ export default function Navigation() {
     }`}>
       <div className="container mx-auto px-6">
         <div className="flex items-center justify-between h-16">
-          {/* Logo */}
+          {/* Logo
           <div className="flex items-center">
-            <span className={`text-2xl font-bold transition-colors duration-300 ${
+            <span className={`text-xl font-bold transition-colors duration-300 ${
               isScrolled 
                 ? 'text-gray-900 dark:text-white' 
                 : 'text-white'
             }`}>
-              Hoda
+              Hoda Rasaei
             </span>
-          </div>
+          </div> */}
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
