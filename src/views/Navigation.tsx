@@ -47,7 +47,7 @@ export default function Navigation() {
               <a
                 key={item.name}
                 href={item.href}
-                className={`font-medium transition-colors duration-300 hover:text-purple-500 ${
+                className={`font-medium transition-colors duration-300 hover:text-blue-500 ${
                   isScrolled 
                     ? 'text-gray-700 dark:text-gray-300' 
                     : 'text-white'
@@ -90,7 +90,7 @@ export default function Navigation() {
                 <a
                   key={item.name}
                   href={item.href}
-                  className="block font-medium text-gray-700 dark:text-gray-300 hover:text-purple-500 transition-colors duration-300"
+                  className="block font-medium text-gray-700 dark:text-gray-300 hover:text-blue-500 transition-colors duration-300"
                   onClick={() => setIsMobileMenuOpen(false)}
                 >
                   {item.name}
